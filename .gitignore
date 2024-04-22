@@ -21,3 +21,5 @@
 go.work
 
 build/
+lachesisnode
+.idea/
